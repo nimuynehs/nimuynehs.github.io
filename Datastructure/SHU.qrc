@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/SHU">
+        <file>shumap.png</file>
+        <file>SHU.png</file>
+        <file>SHU.ico</file>
+        <file>Shumap2.png</file>
+        <file>SH.png</file>
+        <file>SH.ico</file>
+    </qresource>
+</RCC>
