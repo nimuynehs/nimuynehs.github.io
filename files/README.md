@@ -1,1 +1,1 @@
-Test
+Advertisement board for rent
