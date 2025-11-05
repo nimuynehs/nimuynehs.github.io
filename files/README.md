@@ -1,0 +1,1 @@
+Advertisement board for rent
